@@ -1,0 +1,194 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\facultateUpt\an2\sem2\CN\ALU_FINAL
+valu
+!s100 YCEn9=G><1jnMa;PF5:c`0
+IgPA;<?AaP0m4iX]=KAM7?0
+V?UQY<3@l@QiIbZC`YY=LH3
+w1714130842
+8alu.v
+Falu.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+valu_tb
+!s100 heeiRVni;YSg=]gh>U?CI1
+I1OQX4;=_4N83Ch^E==^RB3
+VL;=kgzZ7GJ2Reg7Z1GkmR2
+w1714130770
+8alu_tb.v
+Falu_tb.v
+L0 3
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+vAND
+!s100 b^Yggh4^PSYfAO]Zo[;7>1
+I0f>TlOb]TaCIcFJTO<d<60
+VF_ORYieA=?BKbTmNAAAg10
+w1714065185
+8AND.v
+FAND.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+n@a@n@d
+vimpartitor
+!s100 ;0Kz@B>X2U9O^Ze;a]7CO3
+IIBXbm11hXOEMd5_9>9C^g1
+VbYo97hnL>m?_OTKhR``C91
+w1714079947
+8impartitor.v
+Fimpartitor.v
+L0 3
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+vinmultitor
+!s100 _CRh28EJndON;ShKRLYgi3
+I_N3b0COV@X3J9RX9UEfjS1
+VmV`C3]]I6kZcoY0V?0KC^2
+w1714077659
+8inmultitor.v
+Finmultitor.v
+L0 3
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+vOR
+!s100 7f>e4O8[db8^DbP0K7J_Z0
+IY<eOiX`?FhV2II7_0XOl?0
+VVgVDM=bh0[F=?ND0jWa?42
+w1714130420
+8OR.v
+FOR.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+n@o@r
+vscazator
+!s100 J@0o?bJoN;`MNJXJfUb[W0
+IfLWaH]z631@LogJlQg4]S1
+V?_7>T9QLRMbM_@gjKSJa_1
+w1714064958
+8scazator.v
+Fscazator.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+vshiftareDreapta
+!s100 cm?CTZPz_T?W9Y3NMbS`c3
+Imlde=lk=E19@59L8JDbK52
+VPQGdbF2eX8f]O`[Z7[7Wb3
+Z2 w1714074454
+Z3 8shiftare.v
+Z4 Fshiftare.v
+L0 24
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+nshiftare@dreapta
+vshiftareStanga
+!s100 I1W^>jQ8aAM>FYfaa@@dQ3
+I5o`U<9D:G6]KCXE06?DdR3
+V`e:75SdA5HcC;iDIhc0^=2
+R2
+R3
+R4
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+nshiftare@stanga
+vShiftDreaptaN
+!s100 SFK5KPRk0PfN[Da1jI_cJ0
+I=Q4kB[96V8bO1[9OMbCQK2
+VcXI^aF8J=@:EKk^Q1;T6Q3
+Z5 w1714131868
+Z6 8shiftareN.v
+Z7 FshiftareN.v
+L0 22
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+n@shift@dreapta@n
+vShiftStangaN
+!s100 3dLQ;5bZWR5PW4V81O=Q@1
+I4JXkf=XCEz2ok?A^zi4Tf2
+V103TjN[Ve__j31o<?fDiC1
+R5
+R6
+R7
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+n@shift@stanga@n
+vsumator
+!s100 S[l92oJRf>>6@1?gF=Yg92
+I[9=cGLZ2C?2oHgP93l8H43
+V[z4IoZdcAbcbVmX`3T<>71
+w1714073020
+8sumator.v
+Fsumator.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+vXOR
+!s100 JU=8d:WIM^XP]2n7TBR>N3
+IYMfTK<CKnbLP73Oj;PcRK2
+V@ZTgYo:6^8M<cT@D4iQ[c1
+w1714065352
+8XOR.v
+FXOR.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+n@x@o@r
